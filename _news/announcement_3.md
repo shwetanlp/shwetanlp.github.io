@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-10-15 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper "Identifying Depressive Symptoms from Tweets: Figurative Language Enabled Multitask Learning Framework" has been accepted in the COLING 2020.
