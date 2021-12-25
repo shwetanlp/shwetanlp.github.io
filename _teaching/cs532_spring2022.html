@@ -1,14 +1,6 @@
----
-layout: page
-permalink: /teaching/cs532_spring2022.html
-title: 
-description:
-nav: true
----
-
-
 <!DOCTYPE html>
 <html lang="en">
+<title>CS563</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -40,20 +32,42 @@ function poptastic(url)
         border-top: 4px solid darkred;
     }
 
-  a:link {
-  color: inherit;
+a:link {
+  color: blue;
   background-color: transparent;
   text-decoration: none;
 }
-  
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
 </style>
 
+<script>
+  
+function check_theme(){
+ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    var links = document.getElementsByTagName("a");
+    for(var i=0;i<links.length;i++)
+    {
+        if(links[i].href)
+        {
+            links[i].style.color = '#2698BA';  
+        }
+    }  
 
-<body>
+}
+}
 
 
-
-
+</script>
+<body onload="check_theme()">
 
 <section name="about" id="about">
 <div class="w3-content">
@@ -69,7 +83,9 @@ Language Processing</b> </h1>
  
       <h3> CS532, Spring 2022 </h3>
       <h3> University of Illinois Chicago </h3>
-  </h3>
+ 
+      <h3><a href="https://shwetanlp.github.io/"> Shweta Yadav </a> <br>
+ </h3>
   
       </td>
  
@@ -236,6 +252,7 @@ AAAI) paper format. The paper should have an abstract, introduction, clear motiv
 
   </ol>
   <hr class="new2">
+
 
 </section>
 
