@@ -37,7 +37,22 @@ function poptastic(url)
         border-top: 4px solid darkred;
     }
 
+@media (prefers-color-scheme: light) {
+  a:link{
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
 
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+}
+
+  
 @media (prefers-color-scheme: dark) {
   a:link{
   color: #2698BA;
@@ -53,20 +68,6 @@ a:hover {
 
 }
 
-@media (prefers-color-scheme: light) {
-  a:link{
-  color: blue;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-}
 
 
 </style>
@@ -201,19 +202,19 @@ equivalent NLP class, <b>and</b> </li>
   <ol>
     <li>
     <p style="text-align:justify;"></p>
-    <b>Paper Presentation</b>: In each paper presentation class, there will be two presentations (15 minutes
+      <h5><b>Paper Presentation</b></h5>: In each paper presentation class, there will be two presentations (15 minutes
 each) on the pre-defined research topic. Each student has to present at least one paper in the course.
 </li>
 
 <li>
     <p style="text-align:justify-all;"></p>
-    <b>Paper Discussion Session</b>: The paper presentation will be followed by 15 minutes paper discussion session. One participant will argue in favor of the paper, and one will argue against the paper. Each student has to lead the discussion twice (once in favor and once in against the paper) throughout the
+  <h5><b>Paper Discussion Session</b></h5>: The paper presentation will be followed by 15 minutes paper discussion session. One participant will argue in favor of the paper, and one will argue against the paper. Each student has to lead the discussion twice (once in favor and once in against the paper) throughout the
 course.
 </li>
 
 <li>
     <p style="text-align:justify-all;"></p>
-    <b>Paper Critique</b>: Each student has to submit a detailed assessment of the paper (not more than two
+  <h5><b>Paper Critique</b></h5>: Each student has to submit a detailed assessment of the paper (not more than two
 pages) that will consist of <b>(i)</b> key contributions of the paper, <b>(ii)</b> main strengths, and <b>(iii)</b> weaknesses
 of the paper.
 </li>
@@ -221,20 +222,20 @@ of the paper.
 
 <li>
     <p style="text-align:justify-all;"></p>
-    <b>Project</b>: The final project provide you the opportunity to apply your newly acquired skills towards
+  <h5><b>Project</b></h5>: The final project provide you the opportunity to apply your newly acquired skills towards
 solving real-life biomedical and healthcare problems. A team of three students has to submit a project
 at the end of the coursework. The deliverable for the final project include:
 <ul>
   <li>
     <p style="text-align:justify-all;"></p>
-    <b>Proposal Submission</b>: Each team need to provide a one-page proposal by Jan 25. The proposal
+    <h5><b>Proposal Submission</b></h5>: Each team need to provide a one-page proposal by Jan 25. The proposal
 should outline your research objectives, an explanation of objectives, and plans for pursuing them.
   </li>
 
 
   <li>
     <p style="text-align:justify-all;"></p>
-    <b>Project Presentation</b>: Each team has to present twice in the semester – at the beginning
+    <h5><b>Project Presentation</b></h5>: Each team has to present twice in the semester – at the beginning
 (week 4) and the end of the semester (week 14). In the first presentation, the team needs to give
 their research problem, motivation, a plan to tackle the challenge, and a timeline to complete the
 project. The final presentation will be more focused on the methodology, experimental results,
@@ -243,7 +244,7 @@ analysis, and discussion of the research project.
 
   <li>
     <p style="text-align:justify-all;"></p>
-    <b>Final Paper</b>: Each team must write a final report in the NLP conferences (e.g., ACL, NAACL,
+    <h5><b>Final Paper</b></h5>: Each team must write a final report in the NLP conferences (e.g., ACL, NAACL,
 AAAI) paper format. The paper should have an abstract, introduction, clear motivation, contribution, related works, proposed method, comparison with other baselines, results, and analysis.
   </li>
 
@@ -391,11 +392,323 @@ Recognition by Incorporating Multi-Granularity Information</a>
           
           
         </tr>
+  <tr>
   
+            <td style="text-align: center;"> Week 6 <br>
+          </td>
+          <td style="text-align: left;">
+    Semantics and Biomedical/Healthcare Knowledge Graph</i>
+          </td>
+          <td style="text-align: left;">
+            <ol>
+
+            <li>
+               <a href="https://aclanthology.org/2021.acl-long.488.pdf">Joint Biomedical Entity and Relation Extraction with
+Knowledge-Enhanced Collective Inference</a>
+            </li>
+            <li> <a href="https://aclanthology.org/2021.acl-long.457.pdf">SMedBERT: A Knowledge-Enhanced Pre-trained Language Model with
+Structured Semantics for Medical Text Mining</a>
+           </li>
+
+            <li> <a href="https://academic.oup.com/jamia/article/27/10/1556/5919217">The impact of learning Unified Medical Language System knowledge embeddings in relation extraction from biomedical texts</a>
+           </li>
+
+           <li> <a href="https://aclanthology.org/2021.emnlp-main.435/">Incorporating medical knowledge in BERT for clinical relation extraction</a>
+           </li>
+
+          </ol>
+          </td>
+          
+          
+        </tr>
+  
+
+<tr>
+  
+            <td style="text-align: center;"> Week 7 <br>
+          </td>
+          <td style="text-align: left;">
+    Biomedical and Healthcare Question Answering</i>
+          </td>
+          <td style="text-align: left;">
+            <ol>
+
+            <li>
+               <a href="https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-021-04176-7.pdf">External Features Enriched Model
+for Biomedical Question Answering</a>
+            </li>
+            <li> <a href="https://aclanthology.org/D19-1259.pdf">PubMedQA: A Dataset for Biomedical Research Question Answering</a>
+           </li>
+
+            <li> <a href="https://pubmed.ncbi.nlm.nih.gov/31592532/">Consumer Health Information and Question Answering: Helping Consumers Find Answers to Their Health-related Information Needs</a>
+           </li>
+
+           <li> <a href="https://aclanthology.org/2020.acl-main.410.pdf">Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset</a>
+           </li>
+
+<li> <a href="https://aclanthology.org/P19-1090/">Towards Automating Healthcare Question Answering in a Noisy Multilingual Low-Resource Setting</a>
+           </li>
+
+           <li> <a href="https://arxiv.org/pdf/2008.02434.pdf">Interpretable Multi-Step Reasoning with Knowledge Extraction on Complex Healthcare Question Answering</a>
+           </li>
+
+            <li> <a href="https://aclanthology.org/2020.emnlp-main.111/">Towards Medical Machine Reading Comprehension with Structural Knowledge and Plain Text</a>
+           </li>
+
+          </ol>
+          </td>
+          
+          
+        </tr>
+  
+
+<tr>
+  
+            <td style="text-align: center;"> Week 8 <br>
+          </td>
+          <td style="text-align: left;">
+    Disease Prediction and Progression</i>
+          </td>
+          <td style="text-align: left;">
+            <ol>
+
+            <li>
+               <a href="https://www.nature.com/articles/s41746-021-00455-y">Med-BERT: Pretrained Contextualized Embeddings on Largescale Structured Electronic Health Records for Disease Prediction</a>
+            </li>
+            <li> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230322">Automated Monitoring of Tweets for Early Detection of the 2014 Ebola Epidemic</a>
+           </li>
+
+            <li> <a href="https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01318-4">Predicting Mortality in Critically ill Patients with Diabetes using Machine Learning and Clinical Notes</a>
+           </li>
+
+           <li> <a href="https://ascopubs.org/doi/full/10.1200/CCI.20.00020">Natural Language Processing to Ascertain Cancer Outcomes From Medical Oncologist Notes</a>
+           </li>
+
+          </ol>
+          </td>
+          
+          
+        </tr>
+  
+
+  <tr>
+  
+            <td style="text-align: center;"> Week 9 <br>
+          </td>
+          <td style="text-align: left;">
+    Multimodal Biomedical NLP</i>
+          </td>
+          <td style="text-align: left;">
+            <ol>
+
+            <li>
+               <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17657/17464">MELINDA: A Multimodal Dataset for Biomedical Experiment Method Classification</a>
+            </li>
+            <li> <a href="https://www.nature.com/articles/s41598-021-98390-1">MedFuseNet: An Attention-based Multimodal Deep Learning Model for Visual Question Answering in the Medical Domain</a>
+           </li>
+
+            <li> <a href="https://www.nature.com/articles/s41746-020-00341-z">Fusion of Medical Imaging and Electronic Health Records using Deep Learning: A Systematic Review and Implementation Guidelines
+</a>
+           </li>
+
+           <li> <a href="https://ascopubs.org/doi/full/10.1200/CCI.20.00020">Natural Language Processing to Ascertain Cancer Outcomes From Medical Oncologist Notes</a>
+           </li>
+
+          </ol>
+          </td>
+          
+          
+        </tr>
+
+      <tr>
+  
+            <td style="text-align: center;"> Week 10 <br>
+          </td>
+          <td style="text-align: left;">
+    Biomedical Document and Healthcare Records Summarization</i>
+          </td>
+          <td style="text-align: left;">
+            <ol>
+
+            <li>
+               <a href="https://aclanthology.org/N18-2097.pdf">A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents</a>
+            </li>
+            <li> <a href="https://aclanthology.org/2021.acl-srw.30/">SumPubMed: Summarization Dataset of PubMed Scientific Articles</a>
+           </li>
+
+            <li> <a href="https://link.springer.com/article/10.1007/s41666-018-0036-7">What Happened to Me while I Was in the Hospital? Challenges and Opportunities for Generating Patient-Friendly Hospitalization Summaries
+</a>
+           </li>
+
+           <li> <a href="https://aclanthology.org/2021.acl-long.384/">Generating SOAP Notes from Doctor-Patient Conversations Using Modular Summarization Techniques</a>
+           </li>
+
+   <li><a href="https://aclanthology.org/2021.emnlp-main.594/">
+   MS^2: Multi-Document Summarization of Medical Studies</a>
+           </li>
+
+           <li> <a href="https://aclanthology.org/2020.acl-main.458.pdf">Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports
+</a>
+           </li>
+
+           <li> <a href="https://nlp.lab.uic.edu/wp-content/uploads/sites/314/2020/03/AIHI-GuptaI.186.pdf">Goal Summarization for Human-Human Health Coaching Dialogues
+           </li>
+
+
+
+          </ol>
+          </td>
+          
+          
+        </tr>
+
+
+ <tr>
+  
+            <td style="text-align: center;"> Week 11 <br>
+          </td>
+          <td style="text-align: left;">
+    Dialogue Generation in Healthcare and Medical Domains</i>
+          </td>
+          <td style="text-align: left;">
+            <ol>
+
+            <li>
+               <a href="https://aclanthology.org/2020.emnlp-main.743/">MedDialog: Large-scale Medical Dialogue Datasets</a>
+            </li>
+            <li> <a href="https://aclanthology.org/2021.nlpmc-1.1.pdf">Would you like to tell me more?
+Generating a corpus of psychotherapy dialogues</a>
+           </li>
+
+            <li> <a href="https://dl.acm.org/doi/fullHtml/10.1145/3442381.3450097">Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach
+</a>
+           </li>
+
+        
+
+          </ol>
+          </td>
+          
+          
+        </tr>
+
+
+<tr>
+  
+            <td style="text-align: center;"> Week 12 <br>
+          </td>
+          <td style="text-align: left;">
+    Modeling Conversations in the Healthcare Domain</i>
+          </td>
+          <td style="text-align: left;">
+            <ol>
+
+            <li>
+               <a href="https://aclanthology.org/2020.emnlp-main.425.pdf">A Computational Approach to Understanding Empathy Expressed in
+Text-Based Mental Health Support</a>
+            </li>
+            <li> <a href="https://aclanthology.org/W19-5928/">A Quantitative Analysis of Patients’ Narratives of Heart Failure</a>
+           </li>
+
+            <li> <a href="https://aclanthology.org/2021.sigdial-1.31.pdf">Summarizing Behavioral Change Goals from SMS Exchanges to Support
+Health Coaches
+</a>
+           </li>
+
+         <li> <a href="https://aclanthology.org/2020.sigdial-1.30/">Human-Human Health Coaching via Text Messages: Corpus, Annotation, and Analysis
+</a>
+           </li>
+
+
+ <li> <a href="https://aclanthology.org/2020.lrec-1.147/">Modeling Dialogue in Conversational Cognitive Health Screening Interviews
+</a>
+           </li>
+
+          </ol>
+          </td>
+          
+          
+        </tr>
+
+
+<tr>
+  
+            <td style="text-align: center;"> Week 13 <br>
+          </td>
+          <td style="text-align: left;">
+    The Role of Social Media in the Healthcare Domain</i>
+          </td>
+          <td style="text-align: left;">
+            <ol>
+
+            <li>
+               <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17539">It Takes Two to Empathize: One to Seek and One to Provide</a>
+            </li>
+            <li> <a href="https://aclanthology.org/2020.coling-main.61.pdf">Identifying Depressive Symptoms from Tweets: Figurative Language Enabled Multitask Learning Framework</a>
+           </li>
+
+            <li> <a href="https://aclanthology.org/2021.naacl-main.347.pdf">Identifying Medical Self-Disclosure in Online Communities
+</a>
+           </li>
+
+         <li> <a href="https://dl.acm.org/doi/10.1145/2818048.2820010">Modeling Self-Disclosure in Social Networking Sites
+
+</a>
+           </li>
+
+
+ <li> <a href="https://dl.acm.org/doi/10.1145/3290605.3300261">The Channel Matters: Self-disclosure, Reciprocity and Social Support in Online Cancer Support Groups
+</a>
+           </li>
+
+           <li> <a href="https://aclanthology.org/2020.emnlp-main.715/">CancerEmo: A Dataset for Fine-Grained Emotion Detection
+</a>
+           </li>
+
+          </ol>
+          </td>
+          
+          
+        </tr>
+
+
+<tr>
+  
+            <td style="text-align: center;"> Week 14 <br>
+          </td>
+          <td style="text-align: left;">
+     Final Project Presentation
+          </td>
+          <td style="text-align: left;">
+            
+          </td>
+          
+          
+        </tr>
+
+<tr>
+  
+            <td style="text-align: center;"> Week 15 <br>
+          </td>
+          <td style="text-align: left;">
+     Paper Due
+          </td>
+          <td style="text-align: left;">
+            
+          </td>
+          
+          
+        </tr>
+
+
+
                   
 
                       </tbody>
                     </table>
+
+<h5><b>Note</b></h5>: Students can select the papers outside the paper list mentioned above. However, it has to be approved
+by the course instructor one week before the paper-discussion week.
 <hr class="new2">
 </div>
 
