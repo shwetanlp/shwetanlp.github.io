@@ -56,6 +56,7 @@
           </li>
           {% endif %}
           {% endfor %}
+           {% unless page.title contains "2022" %}
           {% if site.enable_darkmode %}
             <div class = "toggle-container">
               <a id = "light-toggle">
@@ -64,6 +65,7 @@
               </a>
             </div>
           {% endif %}
+            {% endunless %}
         </ul>
       </div>
     </div>
