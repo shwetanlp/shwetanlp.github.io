@@ -51,6 +51,18 @@ nav: true
     <td class="tg-btxf"></td>
   </tr>
  
+   <tr>
+    <td class="tg-0lax"></td>
+    <td></td>
+    <td class="tg-0lax"><span style="font-weight:bold">Multitask Learning and their application in </span><br><span style="font-weight:bold">Biomedical &amp; Healthcare Domain</span></td>
+    <td class="tg-0lax"><span style="font-weight:bold">2021</span></td>
+  </tr>
+  <tr>
+    <td class="tg-buh4"></td>
+    <td></td>
+    <td class="tg-buh4">Guest Lecture - Advanced Machine Learning Course, IIT Patna, India</td>
+    <td class="tg-buh4"></td>
+  </tr>
   
   <tr>
     <td class="tg-0lax"></td>
@@ -64,18 +76,7 @@ nav: true
     <td>31st ACM Conference on Hypertext and Social Media, USA</td>
     <td class="tg-btxf"></td>
   </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td></td>
-    <td class="tg-0lax"><span style="font-weight:bold">Multitask Learning and their application in </span><br><span style="font-weight:bold">Biomedical &amp; Healthcare Domain</span></td>
-    <td class="tg-0lax"><span style="font-weight:bold">2021</span></td>
-  </tr>
-  <tr>
-    <td class="tg-buh4"></td>
-    <td></td>
-    <td class="tg-buh4">Guest Lecture - Advanced Machine Learning Course, IIT Patna, India</td>
-    <td class="tg-buh4"></td>
-  </tr>
+ 
   <tr>
     <td class="tg-0pky"></td>
     <td></td>
