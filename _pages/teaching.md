@@ -35,8 +35,25 @@ nav: true
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
 <div><table class="tg">
 <tbody>
-  <tr>
+  
+  
+  
+   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Invited Talks</span><br><span style="font-weight:bold">and Tutorial</span></td>
+    <td></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Biomedical and Healthcare Natural Language Processing</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold">2022</span></td>
+  </tr>
+  <tr>
+    <td class="tg-btxf"></td>
+    <td></td>
+    <td>exploreCSR Workshop, University of Illinois at Chicago, IL, USA</td>
+    <td class="tg-btxf"></td>
+  </tr>
+ 
+  
+  <tr>
+    <td class="tg-0lax"></td>
     <td></td>
     <td class="tg-0pky"><span style="font-weight:bold">Knowledge-infused Deep Learning</span></td>
     <td class="tg-0pky"><span style="font-weight:bold">2020</span></td>
