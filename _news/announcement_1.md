@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-05-22 15:59:00-0400
+date: 2023-01-30 07:59:00-0400
 inline: true
 ---
 
-Our paper "Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards" has been accepted in the ACL 2021.
+Our paper on consumer health summarization is accepted for publication in The Web Conference 2023 (formerly WWW).
