@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2022-06-15 07:59:00-0400
+date: 2023-06-04 07:59:00-0400
 inline: true
 ---
 
-Our paper "Detecting Optimism in Tweets using Knowledge Distillation and Linguistic Analysis of Optimism" has been accepted in the LREC 2022.
+Excited to announce that I will be starting as an Assistant Professor of Computer Science at University of Illinios Chicago in Fall 2023!! 
+
+I am seeking highly motivated students, RAs, and interns. Please send me an email at shwetay@uic.edu if you are interested in working with me at the intersection of NLP and ML, with a specific focus on biomedical and healthcare domain!
