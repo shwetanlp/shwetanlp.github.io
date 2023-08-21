@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 <ul>
-  <li> Instructor, Biomedical and Healthcare NLP (CS532), UIC, Fall 2023, <a href="cs532_fall2023.html"> Course Website</a> </li>
+  <li> Instructor, Biomedical and Healthcare NLP (CS532), UIC, Fall 2023, <a href="cs532_spring2022.html"> Course Website</a> </li>
    <li> Instructor, Natural Language Processing (CS421), UIC, Fall 2022 (Online)</li>
   <li> Instructor, Biomedical and Healthcare NLP (CS532), UIC, Spring 2022, <a href="cs532_spring2022.html"> Course Website</a> </li>
 <li> Teaching Assistant, Machine Learning, IIT Patna, India 2018 </li>
