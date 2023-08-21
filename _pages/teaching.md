@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 <ul>
-  <li> <li> Instructor, Biomedical and Healthcare NLP, UIC 2023, <a href="cs532_fall2023.html"> Course Website</a> </li></li>
+  <li> Instructor, Biomedical and Healthcare NLP, UIC 2023, <a href="cs532_fall2023.html"> Course Website</a> </li><
   <li> Instructor, Biomedical and Healthcare NLP, UIC 2022, <a href="cs532_spring2022.html"> Course Website</a> </li>
 <li> Teaching Assistant, Machine Learning, IIT Patna, India 2018 </li>
 <li> Teaching Assistant, Artificial Intelligence, IIT Patna, India 2017 </li>
