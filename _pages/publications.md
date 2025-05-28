@@ -7,7 +7,7 @@ nav: true
 ---
 
 <div class="publications">
-
+<h4>Please visit the <a href="https://scholar.google.com/citations?user=dMK8VBkAAAAJ&hl=en">Google Scholar Page</a> for full publications.</h4>
 {% for y in page.years %}
   <h2 class="year"><strong>{{y}}</strong></h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
