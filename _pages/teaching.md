@@ -40,7 +40,7 @@ nav: true
 <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Invited Talks</span><br><span style="font-weight:bold">and Tutorial</span></td>
       
-    
+    <td></td>
     <td class="tg-0pky"><span style="font-weight:bold">Social Media and Mental Health</span></td>
     <td class="tg-0pky"><span style="font-weight:bold">2024</span></td>
   </tr>
