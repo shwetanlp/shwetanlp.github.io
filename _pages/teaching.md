@@ -41,10 +41,74 @@ nav: true
 <div><table class="tg">
 <tbody>
   
+
+<tr>
+    <td class="tg-0pky"><span style="font-weight:bold">Invited Talks</span><br><span style="font-weight:bold">and Tutorial</span></td>
+      
+    <td></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Social Media and Mental Health</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold">2024</span></td>
+  </tr>
+  <tr>
+    <td class="tg-btxf"></td>
+    <td></td>
+    <td>Guest Talk - IIITD, India</td>
+    <td class="tg-btxf"></td>
+  </tr>
+
+
+
+
+<tr>
+     <td class="tg-0lax"></td>
+    <td></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Mining Mental Health Symptoms from Social Media</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold">2024</span></td>
+  </tr>
+  <tr>
+    <td class="tg-btxf"></td>
+    <td></td>
+    <td>Guest Lecture - IITP, India</td>
+    <td class="tg-btxf"></td>
+  </tr>
+
+  
+
+
+<tr>
+     <td class="tg-0lax"></td>
+    <td></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Towards Understanding Consumer Healthcare Questions and Answers on Community Question-answering Forums</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold">2022</span></td>
+  </tr>
+  <tr>
+    <td class="tg-btxf"></td>
+    <td></td>
+    <td>Guest Lecture - UMass Amherst, USA</td>
+    <td class="tg-btxf"></td>
+  </tr>
+  
+
+
+ <tr>
+     <td class="tg-0lax"></td>
+    <td></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Exploring Social Media to Understand Mental Health</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold">2022</span></td>
+  </tr>
+  <tr>
+    <td class="tg-btxf"></td>
+    <td></td>
+    <td>Biomedical Informatics and Health Equity Monthly Seminar Series, UIC, USA</td>
+    <td class="tg-btxf"></td>
+  </tr>
+
+
+  
   
   
    <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">Invited Talks</span><br><span style="font-weight:bold">and Tutorial</span></td>
+     <td class="tg-0lax"></td>
     <td></td>
     <td class="tg-0pky"><span style="font-weight:bold">Biomedical and Healthcare Natural Language Processing</span></td>
     <td class="tg-0pky"><span style="font-weight:bold">2022</span></td>
