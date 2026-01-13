@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 <ul>
-        <li> Instructor, Natural Language Processing (CS421), UIC, Spring 2025, <a href="https://shwetanlp.github.io/cs421_spring2026"> Course Website</a></li>
+        <li> Instructor, Natural Language Processing (CS421), UIC, Spring 2026, <a href="https://shwetanlp.github.io/cs421_spring2026"> Course Website</a></li>
       <li> Instructor, Natural Language Processing (CS421), UIC, Fall 2025</li>
        <li> Instructor, Natural Language Processing (CS421), UIC, Spring 2025</li>
         <li> Instructor, Artificial Intelligence in Healthcare, UIC, Spring 2024</li>
